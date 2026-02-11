@@ -1,6 +1,6 @@
 # Karafuru
 
-Karafuru is a beautiful and colorful application available on iOS.
+Karafuru is a tiny color assistant running on your Mac menu bar. You can organize your colors too.
 
 ## Download
 
